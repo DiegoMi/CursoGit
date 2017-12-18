@@ -1,0 +1,4 @@
+Cabecera
+Esto es un ejemplo 
+de archivo de texto
+dentro del proyecto
